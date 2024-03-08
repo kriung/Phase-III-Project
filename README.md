@@ -51,6 +51,9 @@ The dataset contains 3333 entries and 21 columns.
 #### TARGET VARIABLE
 ![Target](TARGET.png)
 
+#### Relationship between some key features:
+![correlations](correlations.png)
+
 ## MODELING
 In order to come up with a predictive model that will be used in evaluating a customer's propensity to churn, an iterative approach to modelling was employed where a total of six classifiers were fitted and evaluated
 The six classifiers were compared and the best performing classifiers on the basis of AUC scores was identified and the best predictive model
@@ -88,7 +91,7 @@ PERFORMANCE
 - XGBoost Training Recall =  0.8402203856749312<br>
 - XGBoost Training f1_score =  0.9131736526946108<br>
 
-MODEL COMPARISON
+### MODEL COMPARISONS
 ![Model Comparisons](comparisons.png)
 Comparing the AUC for all the models, we establish that the Random Forest Classifier had the highest (AUC = 0.79) and best classification performance. Therefore Random Forest was chosen as the most efficient model for the classification task at hand!
 ## Conclusions & Recommendations
