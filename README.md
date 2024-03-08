@@ -1,3 +1,4 @@
+ HEAD
 Reducing Customer Churn: Using Machine Learning to Predict Customer Retention at Syriatel Mobile Telecom
 Moringa school phase III
  Machine Learning Project - Customer Churn
@@ -45,3 +46,4 @@ Total Intl Calls: total number of international calls the customer has done.
 Total Intl Charge: total amount of money the customer was charged by the Telecom company for international calls.
 Customer Service Calls: number of calls the customer has made to customer service.
 Churn: true if the customer terminated their contract, otherwise false
+
