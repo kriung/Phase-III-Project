@@ -1,4 +1,4 @@
-# Reducing Customer Churn <br> Using Machine Learning to Predict Customer Retention at Syriatel Mobile Telecom
+# Reducing Customer Churn <br> Using Machine Learning to Predict Customer Retention at Syriatel- A telecommunication Company
 
 ![Churn](churn.png)
 ## PROJECT OVERVIEW
@@ -49,4 +49,4 @@ The dataset contains 3333 entries and 21 columns.
 - **Churn:** *true if the customer terminated their contract, otherwise false*
 
 #### TARGET VARIABLE
-![Alt text](TARGET.png)
+![Target](TARGET.png)
