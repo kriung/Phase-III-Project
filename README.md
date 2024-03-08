@@ -50,3 +50,10 @@ The dataset contains 3333 entries and 21 columns.
 
 #### TARGET VARIABLE
 ![Target](TARGET.png)
+
+## MODELING
+In order to come up with a predictive model that will be used in evaluating a customer's propensity to churn, an iterative approach to modelling was employed where a total of six classifiers were fitted and evaluated
+The six classifiers were compared and the best performing classifiers on the basis of AUC scores was identified and the best predictive model
+#### Vanilla Logistic Regression Model
+As a baseline model, a vanilla Logistic regression model was fitted and evaluated, where the following classification metrics were recorded
+![Logistic_ROC](Rogreg_roc)
