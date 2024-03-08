@@ -1,6 +1,5 @@
- HEAD
-Reducing Customer Churn: Using Machine Learning to Predict Customer Retention at Syriatel Mobile Telecom
-Moringa school phase III
+# Reducing Customer Churn: Using Machine Learning to Predict Customer Retention at Syriatel Mobile Telecom
+
  Machine Learning Project - Customer Churn
 ![alt text](churn.png
 PROJECT OVERVIEW
