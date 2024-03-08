@@ -67,6 +67,7 @@ The performance on Training and Testing:-<br>
 - Training F1 Score = 0.17567567567567569 <br>
 
 #### Decision Tree Classifier
+PERFORMANCE:
 - Precision on training = 0.7195767195767195 <br>
 - Recall on Training = 0.3746556473829201 <br>
 - F1 Score on Training = 0.4927536231884058<br>
@@ -74,3 +75,30 @@ The performance on Training and Testing:-<br>
 - Precision on testing = 0.6842105263157895 <br>
 - Recall on Testing = 0.325 <br>
 - F1 Score on Testing = 0.4406779661016949<br>
+
+#### Random Forest Classifier
+PERFORMANCE:
+- Random forest Training Precision = 0.8641975308641975 <br>
+- Random forest Training Recall = 0.1928374655647383<br>
+- Random forest Training f1_Score = 0.31531531531531526<br>
+
+#### Gradient Boosting: XGBoost Classifier
+PERFORMANCE
+- XGBoost Training Precision =  1.0 <br>
+- XGBoost Training Recall =  0.8402203856749312<br>
+- XGBoost Training f1_score =  0.9131736526946108<br>
+
+MODEL COMPARISON
+![Model Comparisons](Comparisons.png)
+## Conclusions & Recommendations
+In summary, the analysis indicates a high level of accuracy in predicting customer churn through the application of machine learning techniques. The Random Forest Classifier emerges as the recommended model, showcasing superior overall performance. Its ROC curve gracefully aligns with the upper left corner of the graph, resulting in the largest Area Under the Curve (AUC).
+
+The study Recommend adopting Random Forest Classifier as the primary model for predicting customer churn.-<br>
+#### Business Strategic Recommendations for SyriaTel:
+Implement a targeted Customer Retention stratety
+- Focus on key features related to call minutes and charges.
+- Consider personalized offers or discounts on daily charges.
+- Aim to retain customers and minimize potential revenue loss.
+Address factors contributing to Customer Churn:
+- Develop strategies to reduce customer service calls.
+- Enhance customer experience and satisfaction.
