@@ -54,15 +54,23 @@ The dataset contains 3333 entries and 21 columns.
 ## MODELING
 In order to come up with a predictive model that will be used in evaluating a customer's propensity to churn, an iterative approach to modelling was employed where a total of six classifiers were fitted and evaluated
 The six classifiers were compared and the best performing classifiers on the basis of AUC scores was identified and the best predictive model
-#### Vanilla Logistic Regression Model
+#### Vanilla Logistic Regression Classifier
 As a baseline model, a vanilla Logistic regression model was fitted and evaluated, where the following classification metrics were recorded
 ![Logistic_ROC](Rogreg_roc.png)
 The performance on Training and Testing:-<br>
 - Training Precision = 0.5523809523809524
 - Training recall = 0.15977961432506887
 - Training F1 Score = 0.24786324786324784
-<br> 
+   
 - Testing Precision = 0.4642857142857143<br>
 - Testing Recall =  0.10833333333333334<br>
 - Training F1 Score = 0.17567567567567569 <br>
 
+#### Decision Tree Classifier
+- Precision on training = 0.7195767195767195 <br>
+- Recall on Training = 0.3746556473829201 <br>
+- F1 Score on Training = 0.4927536231884058<br>
+
+- Precision on testing = 0.6842105263157895 <br>
+- Recall on Testing = 0.325 <br>
+- F1 Score on Testing = 0.4406779661016949<br>
