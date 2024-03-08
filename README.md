@@ -56,4 +56,4 @@ In order to come up with a predictive model that will be used in evaluating a cu
 The six classifiers were compared and the best performing classifiers on the basis of AUC scores was identified and the best predictive model
 #### Vanilla Logistic Regression Model
 As a baseline model, a vanilla Logistic regression model was fitted and evaluated, where the following classification metrics were recorded
-![Logistic_ROC](Rogreg_roc)
+![Logistic_ROC](Rogreg_roc.png)
