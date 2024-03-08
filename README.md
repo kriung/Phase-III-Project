@@ -91,6 +91,8 @@ PERFORMANCE
 - XGBoost Training Recall =  0.8402203856749312<br>
 - XGBoost Training f1_score =  0.9131736526946108<br>
 
+#### FEATURE IMPORTANCES
+![Feature importances](feature_importances.png)
 ### MODEL COMPARISONS
 ![Model Comparisons](comparisons.png)
 Comparing the AUC for all the models, we establish that the Random Forest Classifier had the highest (AUC = 0.79) and best classification performance. Therefore Random Forest was chosen as the most efficient model for the classification task at hand!
