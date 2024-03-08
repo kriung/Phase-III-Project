@@ -1,6 +1,6 @@
 # Reducing Customer Churn <br> Using Machine Learning to Predict Customer Retention at Syriatel Mobile Telecom
 
-![Churn]("C:\Users\HP\Desktop\PHASE_3\PROJECT\Phase-III-Project\churn.png")
+![Churn](churn.png)
 ## PROJECT OVERVIEW
 Customer churn, also known as customer attrition or customer turnover, refers to the rate at which customers stop doing business with a company over a given period of time. It is a crucial metric for businesses, especially those in subscription-based industries or services, as it directly impacts the company's revenue and growth.
 This project sets out to Investigate and analyze factors influencing customer churn in Syriatel - a telecommunication company, using a comprehensive dataset from Kaggle. The project aims to identify patterns and key drivers of customer attrition, providing actionable insights and strategic recommendations to aid Syriatel's decision-makers in implementing effective customer retention strategies.
@@ -49,4 +49,4 @@ The dataset contains 3333 entries and 21 columns.
 - **Churn:** *true if the customer terminated their contract, otherwise false*
 
 #### TARGET VARIABLE
-![Alt text]("C:\Users\HP\Desktop\PHASE_3\PROJECT\TARGET.png")
+![Alt text](TARGET.png)
