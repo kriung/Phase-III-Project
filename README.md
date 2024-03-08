@@ -78,7 +78,7 @@ PERFORMANCE:
 
 #### Random Forest Classifier
 PERFORMANCE:
-- Random forest Training Precision = 0.8641975308641975 <br>
+- Random forest Training Precision = 0.8641975308641975 <br
 - Random forest Training Recall = 0.1928374655647383<br>
 - Random forest Training f1_Score = 0.31531531531531526<br>
 
@@ -89,7 +89,8 @@ PERFORMANCE
 - XGBoost Training f1_score =  0.9131736526946108<br>
 
 MODEL COMPARISON
-![Model Comparisons](Comparisons.png)
+![Model Comparisons](comparisons.png)
+Comparing the AUC for all the models, we establish that the Random Forest Classifier had the highest (AUC = 0.79) and best classification performance. Therefore Random Forest was chosen as the most efficient model for the classification task at hand!
 ## Conclusions & Recommendations
 In summary, the analysis indicates a high level of accuracy in predicting customer churn through the application of machine learning techniques. The Random Forest Classifier emerges as the recommended model, showcasing superior overall performance. Its ROC curve gracefully aligns with the upper left corner of the graph, resulting in the largest Area Under the Curve (AUC).
 
