@@ -57,12 +57,12 @@ The six classifiers were compared and the best performing classifiers on the bas
 #### Vanilla Logistic Regression Model
 As a baseline model, a vanilla Logistic regression model was fitted and evaluated, where the following classification metrics were recorded
 ![Logistic_ROC](Rogreg_roc.png)
-The performance on Trainining and Testing:-<br>
+The performance on Training and Testing:-<br>
 - Training Precision = 0.5523809523809524
 - Training recall = 0.15977961432506887
 - Training F1 Score = 0.24786324786324784
 <br> 
-- Testing Precision = 0.4642857142857143
-- Testing Recall =  0.10833333333333334
-- Training F1 Score = 0.17567567567567569
+- Testing Precision = 0.4642857142857143<br>
+- Testing Recall =  0.10833333333333334<br>
+- Training F1 Score = 0.17567567567567569 <br>
 
