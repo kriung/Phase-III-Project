@@ -49,4 +49,4 @@ The dataset contains 3333 entries and 21 columns.
 - **Churn:** *true if the customer terminated their contract, otherwise false*
 
 #### TARGET VARIABLE
-![Alt text]("C:\Users\HP\Desktop\PHASE_3\PROJECT\TARGET.png")
+![Alt text](TARGET.png)
